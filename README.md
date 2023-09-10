@@ -24,14 +24,14 @@
 
 🌟 Feel free to explore my GitHub repositories to see some of the projects I've worked on. If you have any questions or collaboration opportunities, don't hesitate to reach out!  
   
-
+ 📫 How to reach me **mtakaleh@gmail.com**
 <br/>  
 
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on Hospital Management System
   
 
 - 🌱 I’m currently learning React JS   
