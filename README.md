@@ -1,5 +1,5 @@
 
-![MasterHead](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ## Hey 👋, I'm Mohammed Noor Tak!  
   
