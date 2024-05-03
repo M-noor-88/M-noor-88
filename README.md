@@ -31,12 +31,8 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Hospital Management System
+- 🔭 I’m currently working on Home Service Management System
   
-
-- 🌱 I’m currently learning React JS   
-  
-
 - ❓ Ask me about anything related to Backend , Laravel , Web Development  
 
 
